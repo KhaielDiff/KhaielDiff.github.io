@@ -16,6 +16,7 @@
     font-size: 21px;
   }
   .profile img{
+    background-color: white;
     justify-content: right;
     width: 300px;
     height: 300px;
@@ -49,3 +50,4 @@ border-radius:50%:
   margin-bottom: 20px;
 
 }
+
