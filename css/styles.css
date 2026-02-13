@@ -18,6 +18,9 @@
   .name{
     font-size: 21px;
   }
+  .profile {
+    justify-item: center;
+  }
   .profile img{
     background-color: white;
     justify-content: right;
@@ -67,5 +70,6 @@
     font-size: 10px;
   }
 }
+
 
 
