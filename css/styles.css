@@ -59,7 +59,7 @@
   .body {
   font-size: clamp(10px, 2vw, 13px);
   }
-  .profile {
+  .profile img{
     width: 95px;
     height: 90px;
   }
@@ -67,4 +67,5 @@
     font-size: 10px;
   }
 }
+
 
