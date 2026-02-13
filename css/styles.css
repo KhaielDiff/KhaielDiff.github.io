@@ -1,6 +1,7 @@
     body{
-      background-color: white;
+      background-color: black;
        justify-items: left;
+        color: white;
     }
   .main-container1{
       /* background-color: white; */
@@ -46,4 +47,5 @@ border-radius:50%:
   align-items: left;
   gap: 315px; 
   margin-bottom: 20px;
+
 }
