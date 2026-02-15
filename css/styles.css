@@ -19,7 +19,8 @@
     font-size: 21px;
   }
   .profile {
-    justify-item: center;
+    display; flex:
+    justify-content: center;
     align-item: center;
   }
   .profile img{
